@@ -1,6 +1,9 @@
 # Walmart_Sales_Analysis
 
+![a141fbc71fd4881866bf733b0d237d46](https://github.com/Sohamambre5508/Walmart_Sales_Analysis/assets/121428299/e64c241d-bf44-4403-906c-a02d89ff88a7)
+
 ## About
+
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
