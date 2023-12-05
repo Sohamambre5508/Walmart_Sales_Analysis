@@ -37,6 +37,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
+![Screenshot sql](https://github.com/Sohamambre5508/Walmart_Sales_Analysis/assets/121428299/c8d65610-72aa-44bf-b9c2-5df83eeb5efe)
+
+
 ### Analysis List
 
 1. Product Analysis
